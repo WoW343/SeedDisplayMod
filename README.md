@@ -31,3 +31,8 @@ To build:
 
 ```bash
 ./gradlew build
+The built .jar file will appear in:
+build/libs/SeedDisplayMod-1.0.0.jar
+🙏 Help Request
+If you see this and have a working Java & Gradle setup, I’d appreciate if you could build the .jar and upload it in an issue or pull request 🙌
+Thanks!

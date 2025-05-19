@@ -12,3 +12,22 @@ Could anyone kindly help build the `.jar` from this template?
 After building, the `.jar` file should appear in `build/libs/`.
 
 Thanks a lot! 🙏
+
+# SeedDisplayMod
+
+🧭 A simple Fabric mod for Minecraft 1.21.5 that shows the **world seed** in the F3 debug screen.
+
+## 🔧 Features
+- Displays the world seed on the F3 debug screen (`F3`)
+- Lightweight and compatible with most mods (Fabric)
+- Compatible with Feather Client
+
+## 📦 Build Instructions
+This mod uses Gradle to build.
+
+> ⚠ Requires JDK 17+
+
+To build:
+
+```bash
+./gradlew build
